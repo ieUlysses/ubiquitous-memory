@@ -19,4 +19,9 @@ function App() {
   );
 }
 
+/* 
+Following tutorial from:
+https://reactrouter.com/docs/en/v6/getting-started/tutorial
+Not using all points. Keeping it easy breezy */
+
 export default App;
