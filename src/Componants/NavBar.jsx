@@ -6,6 +6,7 @@ import { NavLink } from "react-router-dom";
 //TODO: Dive deeper into nested routes and params in future v. example: nest experience + projects under about page https://reactrouter.com/docs/en/v6/getting-started/tutorial
 
 
+
 function NavBar() {
 
     const navStyle = {
